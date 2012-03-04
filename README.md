@@ -8,7 +8,7 @@ in highload projects.
 Requirements
 ------------
 
-Yii Framework 1.x and above.
+Yii Framework 1.x or above.
 
 Usage
 -----
@@ -34,7 +34,7 @@ WARNING!!! Persistent states and flash messages not implemented yet.
 License
 -------
 
-Yeeki is licensed under New BSD license. That allows proprietary use, and for
+CookieWebUser is licensed under New BSD license. That allows proprietary use, and for
 the software released under the license to be incorporated into proprietary
 products. Works based on the material may be released under a proprietary license
 or as closed source software. It is possible for something to be distributed
