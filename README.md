@@ -13,8 +13,8 @@ Yii Framework 1.x and above.
 Usage
 -----
 
-1. Add CookieWebUser.php to protected/components.
-2. Add this code to 'user' component section in protected/config/main.php:
+- Add CookieWebUser.php to protected/components.
+- Add this code to 'user' component section in protected/config/main.php:
 
 ~~~
 'components' => array(
@@ -26,7 +26,7 @@ Usage
     ),
 ~~~
 
-3. You can use code from http://www.yiiframework.com/doc/guide/1.1/en/topics.auth
+- You can use code from http://www.yiiframework.com/doc/guide/1.1/en/topics.auth
 to implement user authentication.
 
 WARNING!!! Persistent states and flash messages not implemented yet.
