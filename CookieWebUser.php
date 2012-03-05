@@ -22,7 +22,7 @@
  */
 class CookieWebUser extends CApplicationComponent implements IWebUser
 {
-    const VERSION = '1.0';
+    const VERSION = '0.1';
 
     /**
      * @var string|array the URL for login. If using array, the first element
